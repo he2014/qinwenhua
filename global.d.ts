@@ -8,7 +8,6 @@ declare module "*.less";
 declare module "*.scss";
 declare module "*.sass";
 declare module "*.styl";
-declare var window: Window&{}
 // eslint-disable-next-line @typescript-eslint/ban-ts-ignore
 // @ts-ignore
 declare const process: {
